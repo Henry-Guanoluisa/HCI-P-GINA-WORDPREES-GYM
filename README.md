@@ -1,2 +1,2 @@
-# HCI-P-GINA-WORDPREES-GYM
+# HCI-PAGINA-WORDPREES-GYM
 Página diseñada en wordpress y figma 
